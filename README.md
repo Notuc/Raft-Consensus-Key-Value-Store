@@ -1,6 +1,6 @@
 # Raft Consensus Key-Value Store
 
-A distributed key-value store implementing the **Raft consensus algorithm** from scratch in C++20. This project demonstrates a complete implementation of Raft with leader election, log replication, snapshotting, persistence, and gRPC-based network communication.
+A distributed key-value store implementing the **Raft consensus algorithm** from scratch in C++. This project demonstrates a complete implementation of Raft with leader election, log replication, snapshotting, persistence, and gRPC-based network communication.
 
 [![C++](https://img.shields.io/badge/C++-20-blue.svg)](https://en.cppreference.com/w/cpp/20)
 [![CMake](https://img.shields.io/badge/CMake-3.20+-064F8C.svg)](https://cmake.org/)
